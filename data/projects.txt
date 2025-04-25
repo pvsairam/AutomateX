@@ -1,6 +1,39 @@
-Gensyn
-Monad
-Abstract
 Espresso
-Zircuit
+Monad
+Eclipse
+0G Labs
+Union Build
+Mercle
+Initia
+Nexus Labs
+LayerEdge
+Plaza Finance
+Linera
+Sahara Labs
+Sentient
+Silent Protocol
+Somnia Network
+Dawn Internet
+Namada
+Opensea
+375ai
+Optimum
+Drosera
+Huma
+Gradient Network
+Soundness
+Orochi
+Aztec
 Hinkal Protocol
+ByteNova
+Superform
+Kaito
+Succinct
+Theoriq
+Hyperbolic
+MegaETH
+Infinex
+SOON
+Paradex
+Somnia
+Gensyn
