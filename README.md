@@ -10,7 +10,7 @@ An automated script that posts bullish Web3 project updates every hour to Farcas
 If you haven't already, navigate to the project directory.
 
 ```bash
-cd bull-post-automation
+cd AutomateX
 ```
 
 ---
