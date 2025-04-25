@@ -1,2 +1,2 @@
-USE_TWITTER = False
+USE_TWITTER = True
 USE_FARCASTER = True
