@@ -1,0 +1,2 @@
+USE_TWITTER = False
+USE_FARCASTER = True
