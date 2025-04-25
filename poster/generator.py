@@ -18,9 +18,8 @@ def generate_post(project):
                 "content": f"Write a short, bullish Web3 tweet (under 280 chars) about {project}, no hashtags, no spam."
             }]
         )
-        text = res.choices[0].message.content.strip()
         print("[GENERATOR] ChatGPT success.")
-        return text
+        return res.choices[0].message.content.strip()
     except Exception as e:
         print("[GENERATOR] ChatGPT failed:", str(e))
 
@@ -58,6 +57,6 @@ def generate_post(project):
     except Exception as e:
         print("[GENERATOR] DeepSeek failed:", str(e))
 
-    # Fallback
-    print("[GENERATOR] All LLMs failed. Using fallback message.")
-    return f"{project} is heating up! Big alpha incoming. 🚀"
+    # No fallback
+    print("[GENERATOR] All LLMs failed. No post will be generated.")
+    return None
